@@ -1,0 +1,26 @@
+epoch=001 train_loss=1.0700 train_acc=0.6586 val_loss=0.5447 val_acc=0.8381 val_f1=0.8064 time=115.0s
+epoch=002 train_loss=0.3880 train_acc=0.8855 val_loss=0.3243 val_acc=0.8972 val_f1=0.8862 time=55.5s
+epoch=003 train_loss=0.2102 train_acc=0.9380 val_loss=0.2419 val_acc=0.9275 val_f1=0.9162 time=56.1s
+epoch=004 train_loss=0.1495 train_acc=0.9562 val_loss=0.2008 val_acc=0.9404 val_f1=0.9325 time=55.8s
+epoch=005 train_loss=0.1095 train_acc=0.9692 val_loss=0.1813 val_acc=0.9515 val_f1=0.9450 time=56.9s
+epoch=006 train_loss=0.0889 train_acc=0.9748 val_loss=0.1621 val_acc=0.9534 val_f1=0.9489 time=55.0s
+epoch=007 train_loss=0.0754 train_acc=0.9760 val_loss=0.1444 val_acc=0.9635 val_f1=0.9612 time=51.5s
+epoch=008 train_loss=0.0665 train_acc=0.9805 val_loss=0.1589 val_acc=0.9544 val_f1=0.9466 time=50.8s
+epoch=009 train_loss=0.0573 train_acc=0.9835 val_loss=0.1491 val_acc=0.9582 val_f1=0.9545 time=51.7s
+epoch=010 train_loss=0.0543 train_acc=0.9837 val_loss=0.1804 val_acc=0.9577 val_f1=0.9547 time=51.0s
+epoch=011 train_loss=0.0556 train_acc=0.9819 val_loss=0.1659 val_acc=0.9606 val_f1=0.9592 time=50.3s
+epoch=012 train_loss=0.0544 train_acc=0.9831 val_loss=0.1310 val_acc=0.9697 val_f1=0.9639 time=50.7s
+epoch=013 train_loss=0.0556 train_acc=0.9825 val_loss=0.1715 val_acc=0.9616 val_f1=0.9588 time=51.1s
+epoch=014 train_loss=0.0287 train_acc=0.9917 val_loss=0.1604 val_acc=0.9678 val_f1=0.9629 time=51.1s
+epoch=015 train_loss=0.0367 train_acc=0.9894 val_loss=0.1647 val_acc=0.9616 val_f1=0.9577 time=50.9s
+epoch=016 train_loss=0.0455 train_acc=0.9855 val_loss=0.1364 val_acc=0.9678 val_f1=0.9664 time=50.9s
+epoch=017 train_loss=0.0323 train_acc=0.9891 val_loss=0.2133 val_acc=0.9534 val_f1=0.9482 time=50.6s
+epoch=018 train_loss=0.0375 train_acc=0.9882 val_loss=0.1818 val_acc=0.9611 val_f1=0.9554 time=51.0s
+epoch=019 train_loss=0.0502 train_acc=0.9840 val_loss=0.1588 val_acc=0.9606 val_f1=0.9559 time=51.1s
+epoch=020 train_loss=0.0398 train_acc=0.9876 val_loss=0.1556 val_acc=0.9640 val_f1=0.9621 time=51.0s
+epoch=021 train_loss=0.0246 train_acc=0.9922 val_loss=0.1439 val_acc=0.9678 val_f1=0.9658 time=50.5s
+epoch=022 train_loss=0.0312 train_acc=0.9903 val_loss=0.1595 val_acc=0.9664 val_f1=0.9636 time=51.1s
+Early stopping at epoch 22
+best_f1: 0.9664481279020695
+best checkpoint: /kaggle/working/densenet121_baseline/best_model.pt
+metrics: /kaggle/working/densenet121_baseline/metrics.csv
