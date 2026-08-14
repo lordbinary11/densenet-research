@@ -1,9 +1,0 @@
-threshold=0.750 params=6964164->6964164 size_mb=26.89 acc=0.9721 f1=0.9689
-threshold=0.800 params=6964164->6964164 size_mb=26.89 acc=0.9721 f1=0.9689
-threshold=0.820 params=6964164->6964164 size_mb=26.89 acc=0.9721 f1=0.9689
-threshold=0.823 params=6964164->6964164 size_mb=26.89 acc=0.9721 f1=0.9689
-threshold=0.825 params=6964164->6839683 size_mb=26.41 acc=0.9688 f1=0.9639
-threshold=0.827 params=6964164->5111024 size_mb=19.73 acc=0.1720 f1=0.0505
-threshold=0.829 params=6964164->1149389 size_mb=4.43 acc=0.1695 f1=0.0290
-threshold=0.831 params=6964164->858827 size_mb=3.31 acc=0.1695 f1=0.0290
-threshold=0.833 params=6964164->713546 size_mb=2.74 acc=0.1695 f1=0.0290
