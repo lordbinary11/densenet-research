@@ -1,5 +1,4 @@
-# DenseNet Research: Adaptive Layer-Gated Sparse DenseNet for Paddy Disease Classification
-
+# Adaptive Gated DenseNet121 for Paddy Disease Classification: Performance Gains and Limits of Sparsity-Based Pruning
 ## Overview
 
 This research project investigates the effectiveness of an adaptive layer-gated mechanism for creating sparse neural networks in the context of agricultural disease classification. The study compares a standard DenseNet121 baseline against a novel Adaptive DenseNet architecture that learns to selectively activate layers through learnable gate parameters.
