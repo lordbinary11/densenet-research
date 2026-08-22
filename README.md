@@ -215,11 +215,8 @@ Modify this path to match your local dataset location.
 
 ## Citation
 
-If you use this research in your work, please cite:
-
 ```
 Adaptive Gated DenseNet121 for Paddy Disease Classification Research Project
-KNUST Mastercard Foundation Scholars Program
 ```
 
 ## License
@@ -234,4 +231,4 @@ For questions about this research, please refer to the project documentation or 
 
 - Kaggle for the Paddy Disease Classification dataset
 - PyTorch team for the deep learning framework
-- KNUST Mastercard Foundation Scholars Program for research support
+
